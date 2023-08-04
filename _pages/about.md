@@ -24,16 +24,16 @@ My research interest includes multiaxial fatigue, visco-plasticity constitutive 
 Looking forward to your cooperation
 
 # 📝 Publications 
-- Tianguo Zhou, **Xingyue Sun**\*, Xu Chen\*, A multiaxial low-cycle fatigue prediction method under irregular loading by ANN model with knowledge-based features, International Journal of Fatigue, 2023, online.
-- **Xingyue Sun**, Tianguo Zhou, Kai Song, Xu Chen\*, An image recognition based multiaxial low-cycle fatigue life prediction method with CNN model, International Journal of Fatigue, 2023, 167(A), 107324.
-- **Xingyue Sun**, Kun Zhou, Shouwen Shi, Kai Song\*, Xu Chen\*, A new cyclical generative adversarial network based data augmentation method for multiaxial fatigue life prediction, International Journal of Fatigue, 2022, 162, 106996.
-- **Xingyue Sun**, Zheng Liu\*, Xin Wang, Xu Chen\*, Determination of ductile fracture properties of 16MND5 steels under varying constraint levels using machine learning methods, International Journal of Mechanical Sciences, 2022, 224, 107331.
-- **Xingyue Sun**, Kun Zhou, Xiao Han, Kai Song\*, Shouwen Shi\*, Weiwei Yu, Yanzhao Zhang, Xu Chen, Prediction of time-varying inner wall temperature of surge lines by a dynamic neural network, Nuclear Engineering and Design, 2021, 383, 111441.
-- **Xingyue Sun**, Ruisi Xing, Weiwei Yu, Xu Chen\*, Uniaxial ratcheting deformation of 316LN stainless steel with dynamic strain aging: Experiments and simulation, International Journal of Solids and Structures, 2020, 207(15), 196-205.
-- Can Guo, Dunji Yu\*, **Xingyue Sun**, Weiwei Yu, Xu Chen\*, Fatigue failure mechanism and life prediction of a cast duplex stainless steel after thermal aging, International Journal of Fatigue, 2021, 146, 106161.
-- Kun Zhou, **Xingyue Sun**, Shouwen Shi, Kai Song\*, Xu Chen\*, Machine learning-based genetic feature identification and fatigue life prediction, 2021, 44, 2524–2537.
-- Xiao Han, **Xingyue Sun**, Xu Chen\*, Locally assembled stiffness matrix: a novel method to obtain global stiffness matrix, Acta Mechanica, 2023, 234, 2461–2480.
-- Can Guo, Shouwen Shi\*, Hailong Dai, **Xingyue Sun**, Jingtai Yu, Xu Chen\*, The deterioration effects of corrosion product deposition on Ni-Cu alloy in hydrofluoric acid vapor phase, Corrosion Science, 2023, 219, 111256.
+- Tianguo Zhou, ***Xingyue Sun***\*, Xu Chen\*, A multiaxial low-cycle fatigue prediction method under irregular loading by ANN model with knowledge-based features, International Journal of Fatigue, 2023, online.
+- ***Xingyue Sun***, Tianguo Zhou, Kai Song, Xu Chen\*, An image recognition based multiaxial low-cycle fatigue life prediction method with CNN model, International Journal of Fatigue, 2023, 167(A), 107324.
+- ***Xingyue Sun***, Kun Zhou, Shouwen Shi, Kai Song\*, Xu Chen\*, A new cyclical generative adversarial network based data augmentation method for multiaxial fatigue life prediction, International Journal of Fatigue, 2022, 162, 106996.
+- ***Xingyue Sun***, Zheng Liu\*, Xin Wang, Xu Chen\*, Determination of ductile fracture properties of 16MND5 steels under varying constraint levels using machine learning methods, International Journal of Mechanical Sciences, 2022, 224, 107331.
+- ***Xingyue Sun***, Kun Zhou, Xiao Han, Kai Song\*, Shouwen Shi\*, Weiwei Yu, Yanzhao Zhang, Xu Chen, Prediction of time-varying inner wall temperature of surge lines by a dynamic neural network, Nuclear Engineering and Design, 2021, 383, 111441.
+- ***Xingyue Sun***, Ruisi Xing, Weiwei Yu, Xu Chen\*, Uniaxial ratcheting deformation of 316LN stainless steel with dynamic strain aging: Experiments and simulation, International Journal of Solids and Structures, 2020, 207(15), 196-205.
+- Can Guo, Dunji Yu\*, ***Xingyue Sun***, Weiwei Yu, Xu Chen\*, Fatigue failure mechanism and life prediction of a cast duplex stainless steel after thermal aging, International Journal of Fatigue, 2021, 146, 106161.
+- Kun Zhou, ***Xingyue Sun***, Shouwen Shi, Kai Song\*, Xu Chen\*, Machine learning-based genetic feature identification and fatigue life prediction, 2021, 44, 2524–2537.
+- Xiao Han, ***Xingyue Sun***, Xu Chen\*, Locally assembled stiffness matrix: a novel method to obtain global stiffness matrix, Acta Mechanica, 2023, 234, 2461–2480.
+- Can Guo, Shouwen Shi\*, Hailong Dai, ***Xingyue Sun***, Jingtai Yu, Xu Chen\*, The deterioration effects of corrosion product deposition on Ni-Cu alloy in hydrofluoric acid vapor phase, Corrosion Science, 2023, 219, 111256.
 
 # 🎖 Honors and Awards
 - Wiley Top Cited Article 2021-2022. 
