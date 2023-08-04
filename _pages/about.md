@@ -38,12 +38,14 @@ Looking forward to your cooperation
 - Can Guo, Shouwen Shi\*, Hailong Dai, **Xingyue Sun**, Jingtai Yu, Xu Chen\*, The deterioration effects of corrosion product deposition on Ni-Cu alloy in hydrofluoric acid vapor phase, Corrosion Science, 2023, 219, 111256.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Wiley Top Cited Article 2021-2022. 
+- Wiley Top Downloaded Article in 2021.
 
 # 💬 Conference
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- 2023 International Symposium on Structural Integrity and 17th International Conference on Engineering Structural Integrity Assessment (ISSI2023-ESIA17), Manchester, UK, Oral presentation.
+- 2021 International Symposium on Structural Integrity (ISSI2021), Hangzhou, China, Oral presentation.
+- 2020 International Symposium on Structural Integrity (ISSI2020), Suzhou, China, Oral presentation.
+- 2020 ASME Pressure Vessels & Piping Conference (PVP2020), Virtual, Video presentation.
 
 # 📖 Educations
 - *2017.09 - 2023.01*, Tianjin University, Chemical Machinery, Doctor. 
