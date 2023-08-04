@@ -21,8 +21,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 My research interest includes multiaxial fatigue, visco-plasticity constitutive model, and data-driven mechanics. Up to now (Aug. 2023), I have published over 10 papers in the International Journal of Fatigue, International Journal of Mechanical Science, International Journal of Solids and Structures, and so on.
 
-<!-- # 🔥 News --> <!-- 里面是注释 --> 
-<!-- - *2023.08*: &nbsp;🎉🎉  The 1st version of personal academic webpage is constructed.  -->
+# 💼 Project
+<!-- ***2023***: &nbsp;🎉🎉  The 1st version of personal academic webpage is constructed. -->
+Looking forward to your cooperation
 
 # 📝 Publications 
 - Tianguo Zhou, **Xingyue Sun**\*, Xu Chen\*, A multiaxial low-cycle fatigue prediction method under irregular loading by ANN model with knowledge-based features, International Journal of Fatigue, 2023, online.
@@ -40,7 +41,7 @@ My research interest includes multiaxial fatigue, visco-plasticity constitutive 
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Attended Conference
+# 💬 Conference
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
