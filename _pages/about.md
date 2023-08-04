@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes multiaxial fatigue, visco-plasticity constitutive model, and data-driven mechanics. Up to now (Aug. 2023), I have published over 10 papers in the International Journal of Fatigue, International Journal of Mechanical Science, International Journal of Solids and Structures, and so on.
+My research interest includes multiaxial fatigue, visco-plasticity constitutive model, and data-driven mechanics. Up to now (Aug. 2023), I have published over 10 papers in the International Journal of Fatigue, International Journal of Mechanical Science, International Journal of Solids and Structures, and so on. I hope to explore the essence of material deformation in the field of structural integrity and establish a reliable descriptive model. If you have any interest in cooperation, please don't hesitate to contact me.
 
 # 💼 Project
 <!-- ***2023***: &nbsp;🎉🎉  The 1st version of personal academic webpage is constructed. -->
