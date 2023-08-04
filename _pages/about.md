@@ -25,7 +25,7 @@ My research interest includes multiaxial fatigue, visco-plasticity constitutive 
 - *2023.08*: &nbsp;🎉🎉  The 1st version of personal academic webpage is constructed. 
 
 # 📝 Publications 
-- Tianguo Zhou, **Xingyue Sun***, Xu Chen*, A multiaxial low-cycle fatigue prediction method under irregular loading by ANN model with knowledge-based features, International Journal of Fatigue, 2023, online.
+- Tianguo Zhou, **Xingyue Sun**\*, Xu Chen\*, A multiaxial low-cycle fatigue prediction method under irregular loading by ANN model with knowledge-based features, International Journal of Fatigue, 2023, online.
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
