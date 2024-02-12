@@ -21,7 +21,7 @@ My research interest includes multiaxial fatigue, visco-plasticity constitutive 
 
 # 💼 Project
 <!-- ***2023***: &nbsp;🎉🎉  The 1st version of personal academic webpage is constructed. -->
-Looking forward to your cooperation
+- National Natural Science Foundation of China (NSFC), A study on the prediction of multiaxial variable amplitude fatigue life by physics-informed data-driven method, Principal Investigator, 2024.01-2026.12.
 
 # 📝 Publications 
 - Tianguo Zhou, ***Xingyue Sun***\*, Xu Chen\*, A multiaxial low-cycle fatigue prediction method under irregular loading by ANN model with knowledge-based features, International Journal of Fatigue, 2023, online.
