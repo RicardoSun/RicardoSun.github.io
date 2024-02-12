@@ -21,6 +21,8 @@ My research interest includes multiaxial fatigue, visco-plasticity constitutive 
 
 # 💼 Project
 <!-- ***2023***: &nbsp;🎉🎉  The 1st version of personal academic webpage is constructed. -->
+- National Natural Science Foundation of China (NSFC), A study on the prediction of multiaxial variable amplitude fatigue life by physics-informed data-driven method, 2024.01-2026.12. (Principal Investigator, Ongoing)
+- National Natural Science Foundation of China (NSFC), A study on the prediction of multiaxial variable amplitude fatigue life by physics-informed data-driven method, 2024.01-2026.12. (Principal Investigator)
 - National Natural Science Foundation of China (NSFC), A study on the prediction of multiaxial variable amplitude fatigue life by physics-informed data-driven method, 2024.01-2026.12. (Principal Investigator)
 
 # 📝 Publications 
