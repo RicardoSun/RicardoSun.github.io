@@ -29,7 +29,10 @@ My research interest includes multiaxial fatigue, visco-plasticity constitutive 
 
 # 📝 Publications 
 - Ruisi Xing, ***Xingyue Sun***\*, Xu Chen\*. Cyclic constitutive modeling of 316LN stainless steel considering thermal aging mechanism, European Journal of Mechanics - A/Solids, 2024, 107: 105392.
-- Tianguo Zhou, ***Xingyue Sun***\*, Xu Chen\*, A multiaxial low-cycle fatigue prediction method under irregular loading by ANN model with knowledge-based features, International Journal of Fatigue, 2023, online.
+- Weiwen Cao, ***Xingyue Sun***\*, Xu Chen\*. Estimation and validation for fatigue properties of steels by symbolic regression, International Journal of Fatigue, 2024, 186: 108416.
+- Can Guo, Shouwen Shi*, Jingtai Yu, Shuyao Zhang, Hailong Dai, ***Xingyue Sun***\*, Zhe Zhang, Xu Chen. Addressing the strength-corrosion tradeoff in 316L stainless steel by introducing cellular ferrite via directed energy deposition, Additive Manufacturing, 2024, 86: 104201.
+- Tianguo Zhou, ***Xingyue Sun***\*, Zhen Yu, Xu Chen*. A generalization ability-enhanced image recognition based multiaxial fatigue life prediction method for complex loading conditions, Engineering Fracture Mechanics, 2024, 295: 109802.
+- Tianguo Zhou, ***Xingyue Sun***\*, Xu Chen*. A physics-guided modelling method of artificial neural network for multiaxial fatigue life prediction under irregular loading, Philosophical Transactions of the Royal Society A, 2023, 381(2260):1-17.
 - ***Xingyue Sun***, Tianguo Zhou, Kai Song, Xu Chen\*, An image recognition based multiaxial low-cycle fatigue life prediction method with CNN model, International Journal of Fatigue, 2023, 167(A), 107324.
 - ***Xingyue Sun***, Kun Zhou, Shouwen Shi, Kai Song\*, Xu Chen\*, A new cyclical generative adversarial network based data augmentation method for multiaxial fatigue life prediction, International Journal of Fatigue, 2022, 162, 106996.
 - ***Xingyue Sun***, Zheng Liu\*, Xin Wang, Xu Chen\*, Determination of ductile fracture properties of 16MND5 steels under varying constraint levels using machine learning methods, International Journal of Mechanical Sciences, 2022, 224, 107331.
