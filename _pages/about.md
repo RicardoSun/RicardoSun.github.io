@@ -26,8 +26,8 @@ My research interest includes multiaxial fatigue, visco-plasticity constitutive 
 - Natural Science Foundation of Tianjin University, The multiaxial fatigue life prediction by data-driven method, 2024.01-2025.12. (Principal Investigator)
 - Project by Suzhou Nuclear Power Research Institute, Technical support services for improving the calculation accuracy of three-dimensional complex flow fields and heat transfer inverse problems, 2024.05–2025.12 (Project Leader)
 - Project by China Productivity Center for Machinery, Aging test of cast austenitic stainless steel pipeline, 2024.07–2027.07
-- Corporate Commissioned Project, Creep Relaxation Tests and Constitutive model Study of Adhesive Joints, 2023.09-2024.06. (Project Leader)
-- Corporate Commissioned Project, Fatigue Testing of Welded Structures and Microstructural Analysis, 2023.10-2024.07. (Project Leader)
+- Corporate Commissioned Project, Creep Relaxation Tests and Constitutive model Study of Adhesive Joints, 2023.09-2024.08. (Project Leader)
+- Corporate Commissioned Project, Fatigue Testing of Welded Structures and Microstructural Analysis, 2023.10-2024.08. (Project Leader)
 
 # 📝 Publications 
 - Ruisi Xing, ***Xingyue Sun***\*, Xu Chen\*. Cyclic constitutive modeling of 316LN stainless steel considering thermal aging mechanism, European Journal of Mechanics - A/Solids, 2024, 107: 105392.
