@@ -19,7 +19,7 @@ redirect_from:
 
 My research interest includes multiaxial fatigue, visco-plasticity constitutive model, and data-driven mechanics. Up to now (Aug. 2023), I have published over 10 papers in the International Journal of Fatigue, International Journal of Mechanical Science, International Journal of Solids and Structures, and so on. I hope to explore the essence of material deformation in the field of structural integrity and establish a reliable descriptive model. If you have any interest in cooperation, please don't hesitate to contact me.
 
-# 💼 Project
+### 💼 Project
 <!-- ***2023***: &nbsp;🎉🎉  The 1st version of personal academic webpage is constructed. -->
 - National Natural Science Foundation of China (NSFC), A study on the prediction of multiaxial variable amplitude fatigue life by physics-informed data-driven method, 2024.01-2026.12. (Principal Investigator)
 - Postdoctoral Fellowship Program of CPSF, AI-Driven Preparation, Testing, and Mechanism Analysis of LBE High-Entropy Alloy Coatings, 2024.01-2025.12. (Principal Investigator)
