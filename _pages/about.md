@@ -29,7 +29,7 @@ My research interest includes multiaxial fatigue, visco-plasticity constitutive 
 - Corporate Commissioned Project, Creep Relaxation Tests and Constitutive model Study of Adhesive Joints, 2023.09-2024.08. (Project Leader)
 - Corporate Commissioned Project, Fatigue Testing of Welded Structures and Microstructural Analysis, 2023.10-2024.08. (Project Leader)
 
-# 📝 Publications 
+### 📝 Publications 
 - Ruisi Xing, ***Xingyue Sun***\*, Xu Chen\*. Cyclic constitutive modeling of 316LN stainless steel considering thermal aging mechanism, European Journal of Mechanics - A/Solids, 2024, 107: 105392.
 - Weiwen Cao, ***Xingyue Sun***\*, Xu Chen\*. Estimation and validation for fatigue properties of steels by symbolic regression, International Journal of Fatigue, 2024, 186: 108416.
 - Can Guo, Shouwen Shi*, Jingtai Yu, Shuyao Zhang, Hailong Dai, ***Xingyue Sun***\*, Zhe Zhang, Xu Chen. Addressing the strength-corrosion tradeoff in 316L stainless steel by introducing cellular ferrite via directed energy deposition, Additive Manufacturing, 2024, 86: 104201.
@@ -48,20 +48,20 @@ My research interest includes multiaxial fatigue, visco-plasticity constitutive 
 - Xiao Han, ***Xingyue Sun***, Xu Chen\*, Locally assembled stiffness matrix: a novel method to obtain global stiffness matrix, Acta Mechanica, 2023, 234, 2461–2480.
 - Can Guo, Shouwen Shi\*, Hailong Dai, ***Xingyue Sun***, Jingtai Yu, Xu Chen\*, The deterioration effects of corrosion product deposition on Ni-Cu alloy in hydrofluoric acid vapor phase, Corrosion Science, 2023, 219, 111256.
 
-# 🎖 Honors and Awards
+### 🎖 Honors and Awards
 - Wiley Top Cited Article 2021-2022. 
 - Wiley Top Downloaded Article in 2021.
 
-# 💬 Conference
+### 💬 Conference
 - 2024 International Conference on Computational & Experimental Engineering and Sciences, Singapore, Invited presentation.
 - 2023 International Symposium on Structural Integrity and 17th International Conference on Engineering Structural Integrity Assessment (ISSI2023-ESIA17), Manchester, UK, Oral presentation.
 - 2021 International Symposium on Structural Integrity (ISSI2021), Hangzhou, China, Oral presentation.
 - 2020 International Symposium on Structural Integrity (ISSI2020), Suzhou, China, Oral presentation.
 - 2020 ASME Pressure Vessels & Piping Conference (PVP2020), Virtual, Video presentation.
 
-# 📖 Educations
+### 📖 Educations
 - *2017.09 - 2023.01*, Tianjin University, Chemical Machinery, Doctor. 
 - *2013.09 - 2017.06*, Tianjin University, Process Equipment and Control Engineering, Bachelor. 
 
-# 💻 Careers
+### 💻 Careers
 - *2023.01 - Now*, assistant research fellow, Chemical Engineering School of Tianjin University, Tianjin, China.
